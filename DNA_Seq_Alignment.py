@@ -32,10 +32,9 @@ def save_to_csv(results, output_file="examples/blast_results.csv"):
     print(f"[INFO] Résultats sauvegardés dans {output_file}")
 
 def plot_identities(results, output_file="examples/plot.png"):
-    """Crée un graphique des pourcentages d’identité."""
+    """Crée un graphique des pourcentages d'identité."""
     titles = [r["Titre"].split()[0] for r in results]
     identities = [r["%Identité"] for r in results]
-    
     plt.figure(figsize=(8,4))
     plt.barh(titles, identities)
     plt.xlabel("% Identité")
