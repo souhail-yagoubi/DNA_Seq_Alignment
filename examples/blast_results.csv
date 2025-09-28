@@ -1,0 +1,21 @@
+Titre,Longueur,Score,E-value,Identités,%Identité
+gi|2108243291|gb|OK040667.1| Mus musculus musculus strain O20 chromosome 1 sequence,1899751,6432.0,0.0,3216/3216,100.0
+"gi|29466516|emb|AL158086.32| Human DNA sequence from clone RP4-815O16 on chromosome 1p35.1-36.13, complete sequence",87320,6432.0,0.0,3216/3216,100.0
+"gi|163965407|ref|NG_007282.1| Homo sapiens complement C1q A chain (C1QA), RefSeqGene (LRG_22) on chromosome 1",10058,6432.0,0.0,3216/3216,100.0
+gi|2108243283|gb|OK040659.1| Mus musculus musculus strain C57BL/10 chromosome 1 sequence,1899750,6432.0,0.0,3216/3216,100.0
+"gi|54781352|gb|AY789471.1| Homo sapiens complement component 1, q subcomponent, alpha polypeptide (C1QA) gene, complete cds",6001,6422.0,0.0,3214/3216,99.94
+"gi|187423886|ref|NG_007565.1| Homo sapiens complement C1q C chain (C1QC), RefSeqGene (LRG_24) on chromosome 1",11486,2108.0,0.0,1054/1054,100.0
+"gi|1889628716|ref|NM_001347466.2| Homo sapiens complement C1q A chain (C1QA), transcript variant 3, mRNA",1414,1694.0,0.0,847/847,100.0
+"gi|1674986257|ref|NM_001347465.2| Homo sapiens complement C1q A chain (C1QA), transcript variant 2, mRNA",1111,1694.0,0.0,847/847,100.0
+"gi|1519246106|ref|NM_015991.4| Homo sapiens complement C1q A chain (C1QA), transcript variant 1, mRNA",1091,1694.0,0.0,847/847,100.0
+"gi|48734784|gb|BC071986.1| Homo sapiens complement component 1, q subcomponent, A chain, mRNA (cDNA clone MGC:88683 IMAGE:6300836), complete cds",981,1554.0,0.0,777/777,100.0
+"gi|2694618757|ref|XM_003775776.5| PREDICTED: Pongo abelii complement C1q A chain (C1QA), transcript variant X1, mRNA",1623,1551.0,0.0,821/850,96.59
+"gi|2694618758|ref|XM_024231420.3| PREDICTED: Pongo abelii complement C1q A chain (C1QA), transcript variant X2, mRNA",1906,1551.0,0.0,821/850,96.59
+"gi|4894853|gb|AF135157.1|AF135157 Homo sapiens complement C1q A chain precursor, mRNA, complete cds",967,1549.0,0.0,776/777,99.87
+"gi|33879609|gb|BC030153.2| Homo sapiens complement component 1, q subcomponent, A chain, mRNA (cDNA clone MGC:29490 IMAGE:4850418), complete cds",1011,1549.0,0.0,776/777,99.87
+"gi|2694390435|ref|XM_024929671.4| PREDICTED: Pan paniscus complement C1q A chain (C1QA), transcript variant X3, mRNA",971,1544.0,0.0,775/777,99.74
+"gi|2694390431|ref|XM_024929669.4| PREDICTED: Pan paniscus complement C1q A chain (C1QA), transcript variant X1, mRNA",1066,1544.0,0.0,775/777,99.74
+"gi|2694390433|ref|XM_024929670.5| PREDICTED: Pan paniscus complement C1q A chain (C1QA), transcript variant X2, mRNA",1044,1544.0,0.0,775/777,99.74
+"gi|2695822750|ref|XM_054456844.2| PREDICTED: Pongo pygmaeus complement C1q A chain (C1QA), transcript variant X1, mRNA",1639,1541.0,0.0,819/850,96.35
+"gi|2695822751|ref|XM_054456850.2| PREDICTED: Pongo pygmaeus complement C1q A chain (C1QA), transcript variant X2, mRNA",1614,1541.0,0.0,819/850,96.35
+"gi|2695822752|ref|XM_054456860.2| PREDICTED: Pongo pygmaeus complement C1q A chain (C1QA), transcript variant X3, mRNA",1632,1541.0,0.0,819/850,96.35

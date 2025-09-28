@@ -1,0 +1,10 @@
+Hits avec le meilleur % d'identité (100.0%):
+- gi|2108243291|gb|OK040667.1| Mus musculus musculus strain O20 chromosome 1 sequence
+- gi|29466516|emb|AL158086.32| Human DNA sequence from clone RP4-815O16 on chromosome 1p35.1-36.13, complete sequence
+- gi|163965407|ref|NG_007282.1| Homo sapiens complement C1q A chain (C1QA), RefSeqGene (LRG_22) on chromosome 1
+- gi|2108243283|gb|OK040659.1| Mus musculus musculus strain C57BL/10 chromosome 1 sequence
+- gi|187423886|ref|NG_007565.1| Homo sapiens complement C1q C chain (C1QC), RefSeqGene (LRG_24) on chromosome 1
+- gi|1889628716|ref|NM_001347466.2| Homo sapiens complement C1q A chain (C1QA), transcript variant 3, mRNA
+- gi|1674986257|ref|NM_001347465.2| Homo sapiens complement C1q A chain (C1QA), transcript variant 2, mRNA
+- gi|1519246106|ref|NM_015991.4| Homo sapiens complement C1q A chain (C1QA), transcript variant 1, mRNA
+- gi|48734784|gb|BC071986.1| Homo sapiens complement component 1, q subcomponent, A chain, mRNA (cDNA clone MGC:88683 IMAGE:6300836), complete cds
